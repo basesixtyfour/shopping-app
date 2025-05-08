@@ -1,11 +1,11 @@
 /*
   Warnings:
 
-  - You are about to drop the `order` table. If the table is not empty, all the data it contains will be lost.
+  - You are about to drop the `Order` table. If the table is not empty, all the data it contains will be lost.
 
 */
 -- DropTable
-DROP TABLE `order`;
+DROP TABLE `Order`;
 
 -- CreateTable
 CREATE TABLE `Customer_order` (
